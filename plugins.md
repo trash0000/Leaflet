@@ -1546,6 +1546,16 @@ Allows users to create, draw, edit and/or delete points, lines and polygons.
 			<a href="https://github.com/manleyjster">Justin Manley</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/trash0000/Leaflet.RSWE">Leaflet.RSWE</a>
+		</td><td>
+			Room Sketches Web Editor (RSWE) - Leaflet plugin allows you draw, edit, save and load simple indoor sketches directly on Leaflet maps.
+			(<a href="http://trash0000.github.io/Leaflet.RSWE/RSWE.600x800.html">See demo</a>)
+		</td><td>
+			<a href="https://github.com/trash0000">Alexey Soloveiv</a>
+		</td>
+	</tr>
 </table>
 
 
